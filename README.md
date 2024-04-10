@@ -4,7 +4,7 @@ Este repositório contém o código-fonte para uma tela de login HTML simples e 
 Recursos utilizados:
 HTML: Estrutura básica da página (index.html).
 CSS: Estilização da página (style.css).
-Visualização
+Visualização.
 Imagem da tela de login: [URL inválido removido]
 
 Funcionalidades:
